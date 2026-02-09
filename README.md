@@ -24,8 +24,6 @@ You can easily set up a NeleBot X with its docs [here](https://neleb54gold.githu
 
 [⭐️ Rate on @BotsArchive](https://t.me/BotsArchive/111)
 
-[📲 Help with Translations](https://nelebots.oneskyapp.com/collaboration/translate/project/project/171653/)
-
 ### About NeleBots
 
 [📢 Telegram Channel](https://t.me/NeleBots)
